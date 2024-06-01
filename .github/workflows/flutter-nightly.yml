@@ -12,4 +12,5 @@ jobs:
     secrets: inherit
     with:
       upload-artifact: true
-      upload-tag: "Builded Version"
+      upload-tag: "nightly"
+      
