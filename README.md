@@ -1,3 +1,4 @@
+## Version Edited to me  Seimon Athayde 
 <p align="center">
   <img src="res/logo-header.svg" alt="RustDesk - Your remote desktop"><br>
   <a href="#free-public-servers">Servers</a> •
